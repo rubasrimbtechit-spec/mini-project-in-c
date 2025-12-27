@@ -1,4 +1,4 @@
-Project Title: Employee Payroll System
+*Project Title: Employee Payroll System*
 
 Description:
 The Employee Payroll System is a C-based software designed to automate the management of employee records and salary processing. 
